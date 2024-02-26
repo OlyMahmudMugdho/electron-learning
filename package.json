@@ -1,0 +1,17 @@
+{
+  "name": "electron-learning",
+  "version": "1.0.0",
+  "description": "simple app",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electronmon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Oly Mahmud --watch",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.0.1"
+  }
+}
